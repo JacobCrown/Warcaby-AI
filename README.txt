@@ -1,4 +1,4 @@
-Program zawiera implementację warcabów
+Program zawiera implementację warcabów. Możliwa jest rozgrywka tylko i wyłącznie z komputerem.
 
 Plansza 8x8
 
